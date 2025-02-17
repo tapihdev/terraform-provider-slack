@@ -1,6 +1,6 @@
 module github.com/tapih/terraform-provider-slack
 
-go 1.22.0
+go 1.23.6
 
 require (
 	github.com/bflad/tfproviderdocs v0.12.1
