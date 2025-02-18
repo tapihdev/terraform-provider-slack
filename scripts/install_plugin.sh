@@ -30,4 +30,4 @@ install_plugin() {
   done
 }
 
-install_plugin "terraform.local.com/tapih/slack"
+install_plugin "terraform.local.com/tapihdev/slack"
